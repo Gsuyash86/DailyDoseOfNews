@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import NewsItems from "./NewsItems";
 import Spinner from "./Spinner";
 import PropTypes from "prop-types";
+import InfiniteScroll from "react-infinite-scroll-component";
 
 class News extends Component {
   static defaultProps = {
@@ -26,6 +27,7 @@ class News extends Component {
       articles: [],
       loading: false,
       page: 1,
+      totalResults: 0,
     };
     document.title = `${this.capitalizeFirstLetter(
       this.props.category
@@ -33,7 +35,7 @@ class News extends Component {
   }
 
   async updateNews() {
-    var url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=dddee4049a3e49399ab2bc5b1b5eb7d1&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+    var url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=c2a3c39198f64a9fb2a38db412f35f7b&page=${this.state.page}&pageSize=${this.props.pageSize}`;
     this.setState({ loading: true });
     let data = await fetch(url);
     let parseData = await data.json();
@@ -48,76 +50,58 @@ class News extends Component {
     this.updateNews();
   }
 
-  handleNextClick = async (e) => {
-    e.preventDefault();
+  fetchMoreData = async () => {
     this.setState({ page: this.state.page + 1 });
-    if (
-      !(
-        this.state.page + 1 >
-        Math.ceil(this.state.totalResults / this.props.pageSize)
-      )
-    ) {
-      this.updateNews();
-    }
-  };
-
-  handlePrevClick = async () => {
-    this.setState({ page: this.state.page - 1 });
-    this.updateNews();
+    var url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+    this.setState({ loading: true });
+    let data = await fetch(url);
+    let parseData = await data.json();
+    this.setState({
+      articles: this.state.articles.concat(parseData.articles),
+      totalResults: parseData.totalResults,
+      loading: false,
+    });
   };
 
   render() {
     return (
-      <div className="container my-3">
+      <>
         <h2 className="text-center" style={{ margin: "35px 0px" }}>
           DailyDoseOfNews- Top Headlines from{" "}
           {this.capitalizeFirstLetter(this.props.category)}
         </h2>
-        {this.state.loading && <Spinner />}
-        <div className="row">
-          {!this.state.loading &&
-            this.state.articles.map((elements) => {
-              return (
-                <div className="col-md-4" key={elements.url}>
-                  <NewsItems
-                    title={elements ? elements.title.slice(0, 100) : ""}
-                    description={elements.description}
-                    newsUrl={elements.url}
-                    imageUrl={
-                      elements.urlToImage
-                        ? elements.urlToImage
-                        : "https://th.bing.com/th/id/OIP.AC9frN1qFnn-I2JCycN8fwHaEK?pid=ImgDet&rs=1"
-                    }
-                    author={elements.author}
-                    date={elements.publishedAt}
-                    source={elements.source.name}
-                  />
-                </div>
-              );
-            })}
-        </div>
-        <div className="container d-flex justify-content-between my-3">
-          <button
-            type="button"
-            className="btn btn-dark"
-            onClick={this.handlePrevClick}
-            disabled={this.state.page <= 1}
-          >
-            &larr;Previous
-          </button>
-          <button
-            type="button"
-            className="btn btn-dark"
-            onClick={this.handleNextClick}
-            disabled={
-              this.state.page + 1 >
-              Math.ceil(this.state.totalResults / this.props.pageSize)
-            }
-          >
-            Next&rarr;
-          </button>
-        </div>
-      </div>
+        {/*    {this.state.loading && <Spinner />} */}
+        <InfiniteScroll
+          dataLength={this.state.articles.length}
+          next={this.fetchMoreData}
+          hasMore={this.state.articles.length !== this.state.totalResults}
+          loader={<Spinner />}
+        >
+          <div className="container">
+            <div className="row">
+              {this.state.articles.map((elements) => {
+                return (
+                  <div className="col-md-4" key={elements.url}>
+                    <NewsItems
+                      title={elements ? elements.title.slice(0, 100) : ""}
+                      description={elements.description}
+                      newsUrl={elements.url}
+                      imageUrl={
+                        elements.urlToImage
+                          ? elements.urlToImage
+                          : "https://th.bing.com/th/id/OIP.AC9frN1qFnn-I2JCycN8fwHaEK?pid=ImgDet&rs=1"
+                      }
+                      author={elements.author}
+                      date={elements.publishedAt}
+                      source={elements.source.name}
+                    />
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        </InfiniteScroll>
+      </>
     );
   }
 }
