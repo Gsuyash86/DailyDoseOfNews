@@ -1,0 +1,264 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Jon Fingas",
+      "title": "Pixel Pass bundles a phone with Google services for $45 per month",
+      "description": "The rumors were true: Google has an answer to the Apple One bundle. The company has introduced a Pixel Pass subscription that includes a Pixel 6 or 6 Pro phone (with an upgrade in two years), an extended warranty, 200GB of Google One storage, Google Play Pass…",
+      "url": "https://www.engadget.com/google-pixel-6-pass-subscription-170056831.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/0e78bb60-2c4d-11ec-bcfc-ce631a8414bc",
+      "publishedAt": "2021-10-19T17:00:56Z",
+      "content": "The rumors were true: Google has an answer to the Apple One bundle. The company has introduced a Pixel Pass subscription that includes a Pixel 6 or 6 Pro phone (with an upgrade in two years), an exte… [+1151 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Kris Naudus",
+      "title": "The Pixel 6 Pro vs. the competition: Telephoto, Tensor and more",
+      "description": "Last year's Pixel came and went with only one screen size available, and for this year's flagship Google's giving you two options again. But instead of dubbing it the \"XL\" the bigger phone now carries the \"Pro\" moniker. The company says it's because it offers…",
+      "url": "https://www.engadget.com/google-pixel-6-pro-vs-the-apple-iphone-12-samsung-galaxy-s21-ultra-oneplus-9-pro-172019652.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/d65b19c0-30f8-11ec-bbbf-aaf8c5e15bb6",
+      "publishedAt": "2021-10-19T17:20:19Z",
+      "content": "<td>Rear camera(s)\r\n</td><td>Three cameras:Ultra-wide, 12MP, f/2.2Wide, 50 MP, f/1.85Telephoto, 48MP, f/3.5\r\n</td><td>Three cameras:Ultra-wide, 12MP, f/1.8Wide, 12MP, f/1.5Telephoto, 12MP, f/2.8\r\n</t… [+227 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Nathan Ingraham",
+      "title": "Google's Pixel 6 and Pixel 6 Pro deliver flagship features for $599 and $899",
+      "description": "Back in August, Google surprisingly announced its upcoming Pixel 6 and Pixel 6 Pro smartphones and said they would run on the company’s own “Tensor” mobile chip. We learned a few other things then and got a good look at the phones, as well, but today Google i…",
+      "url": "https://www.engadget.com/google-pixel-6-and-6-pro-price-specs-release-date-170039729-170024290.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/8b6bac20-30eb-11ec-b8bb-a9b6d0525232",
+      "publishedAt": "2021-10-19T17:00:24Z",
+      "content": "Back in August, Google surprisingly announced its upcoming Pixel 6 and Pixel 6 Pro smartphones and said they would run on the companys own Tensor mobile chip. We learned a few other things then and g… [+6063 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Cherlynn Low",
+      "title": "Pixel 6 and 6 Pro hands-on: Google’s return to premium phones",
+      "description": "The Pixel 6 and 6 Pro are finally here, and they’re the most promising phones from Google in years. That’s largely thanks to Tensor, the company’s first mobile chip. We’ve already seen plenty of pictures and videos of the Pixel 6, but now we actually have dev…",
+      "url": "https://www.engadget.com/google-pixel-6-and-6-pro-hands-on-tensor-features-camera-specs-available-price-170038272.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/d6d73df0-3050-11ec-bfeb-e079e3d38aac",
+      "publishedAt": "2021-10-19T17:00:38Z",
+      "content": "The Pixel 6 and 6 Pro are finally here, and theyre the most promising phones from Google in years. Thats largely thanks to Tensor, the companys first mobile chip. Weve already seen plenty of pictures… [+12771 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Mitchell Clark",
+      "title": "The new MacBook Pros have one big question mark: battery life",
+      "description": "Apple’s new laptops seem truly pro, but battery life estimates can be tough to trust. Will the new, more powerful processors still run lean enough to preserve Apple Silicon’s reputation for all-day battery?",
+      "url": "https://www.theverge.com/22733390/macbook-pro-14-16-inch-battery-life-question-usage-processors",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/CI8W-GNcT2wTyVI8c5YM9A3vS7k=/0x46:2880x1554/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22937923/Screen_Shot_2021_10_18_at_8.43.20_PM.png",
+      "publishedAt": "2021-10-19T16:22:36Z",
+      "content": "Apples claim of the longest battery life ever isnt what it seems\r\nImage: Apple\r\nApples new MacBook Prosare here, and they may actually live up to the Pro moniker. But theres one big question that com… [+4909 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sam Byford",
+      "title": "Casio G-Shock GSW-H1000 review: bad timing",
+      "description": "Finally, a G-Shock smartwatch.",
+      "url": "https://www.theverge.com/22732325/casio-g-shock-gsw-h1000-g-squad-pro-review",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/KjCxLMUiLKiicjYnj_4qY5S4aiA=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22935260/IMG_0229.jpg",
+      "publishedAt": "2021-10-19T14:58:15Z",
+      "content": "A shock to the ecosystem\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nAlthough the Wear OS watch market has been dominated by the likes of Foss… [+6197 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Aria Bracci",
+      "title": "How public radio is trying to save print",
+      "description": "Chicago Public Media and the Chicago Sun-Times are exploring a merger as a way to save the storied newspaper. A possible could result in the Sun-Times focusing on memberships over subscriptions.",
+      "url": "https://www.theverge.com/22732611/wbez-chicago-public-media-sun-times-deal-radio-print-journalism-podcast",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/MyVaS85aO_b_J0tOWyhb0TewS8M=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22935786/newspaperRadio.jpg",
+      "publishedAt": "2021-10-19T12:00:00Z",
+      "content": "Illustration by Alex Castro / The Verge\r\n\n \n\n\n Why Chicago Public Media and the Chicago Sun-Times are exploring a merger The Chicago Sun-Times needs help. After being bought and sold several times ov… [+7806 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ron Amadeo",
+      "title": "The Pixel 6 is official, at the incredible prices of $599 and $899",
+      "description": "The Pixel 6 has a killer price, a new camera, and the Google Tensor SoC.",
+      "url": "https://arstechnica.com/gadgets/2021/10/the-pixel-6-is-official-at-the-incredible-prices-of-599-and-899/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/30-760x380.jpg",
+      "publishedAt": "2021-10-19T17:00:48Z",
+      "content": "0 with 0 posters participating\r\nThe Pixel 6 is finally official, with Google taking the wraps off the phone during a live-streamed event on Tuesday. We have so much to talk about.\r\nFirst, the basics:… [+6202 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Apple to sell fewer iPhones as chip crisis bites, J.P.Morgan says - Reuters",
+      "description": "J.P.Morgan on Tuesday became the second brokerage in two weeks to cut its forecast for Apple Inc's <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> iPhone sales for the crucial holiday quarter as the global chip shortage and fac…",
+      "url": "https://www.reuters.com/technology/apple-sell-fewer-iphones-chip-crisis-bites-jpmorgan-says-2021-10-19/",
+      "urlToImage": "https://www.reuters.com/resizer/-VmZyVyt1M8gAKjmSNRudV4JwAw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SIJBUDAUTVIQ7H6I2LWUX6NYSE.jpg",
+      "publishedAt": "2021-10-19T11:16:00Z",
+      "content": "Apple's iPhone 13 models are pictured at an Apple Store on the day the new Apple iPhone 13 series goes on sale, in Beijing, China September 24, 2021. REUTERS/Carlos Garcia Rawlins Oct 19 (Reuters) - … [+2397 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "UK watchdog to launch investigation into music streaming - Reuters",
+      "description": "Britain's competition regulator said on Tuesday it planned to launch an investigation into music streaming to see whether the role played by platforms such as Spotifycreated a fair deal for consumers.",
+      "url": "https://www.reuters.com/business/media-telecom/uk-watchdog-launch-investigation-into-music-streaming-2021-10-19/",
+      "urlToImage": "https://www.reuters.com/resizer/-muT5p_MFrOZXF2LtnKyD_y-Bog=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RGNOQQ6JHRP6PDOSHHVAXHQHII.jpg",
+      "publishedAt": "2021-10-19T06:57:00Z",
+      "content": "LONDON, Oct 19 (Reuters) - Britain's competition regulator said on Tuesday it planned to launch an investigation into music streaming to see whether the role played by platforms such as Spotifycreate… [+1150 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Spotify to hire hundreds to drive ad sales in Europe, Australia, Canada - Reuters",
+      "description": "Spotify <a href=\"https://www.reuters.com/companies/SPOT.N\" target=\"_blank\">(SPOT.N)</a> is planning to hire hundreds of staff to boost its advertising sales in Europe and elsewhere, as the music streaming service looks to increase revenue from customers who d…",
+      "url": "https://www.reuters.com/technology/spotify-hire-hundreds-drive-ad-sales-europe-australia-canada-2021-10-19/",
+      "urlToImage": "https://www.reuters.com/resizer/FT3yWtbFXQrDttXMRXdkQ0ofiiY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C33MWGNELRO35BOPEGHFXIG2VA.jpg",
+      "publishedAt": "2021-10-19T05:04:00Z",
+      "content": "The Spotify logo is displayed after the stock began selling as a direct listing on the floor of the New York Stock Exchange in New York, U.S., April 3, 2018. REUTERS/Lucas JacksonSTOCKHOLM, Oct 19 (R… [+2482 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "World stocks at 1-month high as bond yields soften - Reuters",
+      "description": "World stocks climbed to a one-month high on Tuesday as a rally in technology shares and prospects of solid corporate earnings helped counter concerns about elevated inflationary pressures.",
+      "url": "https://www.reuters.com/business/global-markets-wrapup-3-pix-2021-10-19/",
+      "urlToImage": "https://www.reuters.com/resizer/x4mR__Y73SBLtyKl9H7Cy6VldZU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V52IBJMFUFKX5JCW4IDDVBBRUI.jpg",
+      "publishedAt": "2021-10-19T08:59:00Z",
+      "content": "LONDON, Oct 19 (Reuters) - World stocks climbed to a one-month high on Tuesday as a rally in technology shares and prospects of solid corporate earnings helped counter concerns about elevated inflati… [+2358 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Russia to go after Google this month with fine of up to 20% of annual turnover - Reuters",
+      "description": "Russia said on Tuesday it would this month seek to fine U.S. tech giant Google a percentage of its annual Russian turnover for repeatedly failing to delete content deemed illegal, Moscow's strongest effort yet to rein in foreign tech firms.",
+      "url": "https://www.reuters.com/technology/russia-go-after-google-this-month-with-fine-up-20-annual-turnover-2021-10-19/",
+      "urlToImage": "https://www.reuters.com/resizer/KR7nAkDOrxwcV5HnoImI6olHVxg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3GVCFH3QEBLR7K3QWEMDYT23H4.jpg",
+      "publishedAt": "2021-10-19T09:54:00Z",
+      "content": "The logo of Russia's state communications regulator, Roskomnadzor, is reflected in a laptop screen showing Google start page. May 27, 2021. REUTERS/Maxim ShemetovMOSCOW, Oct 19 (Reuters) - Russia sai… [+2010 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Developed market equities, U.S. tech, Japan to gain in 2022, fund manager says - Reuters",
+      "description": "Developed market equities, including U.S. technology stocks other than the so-called FAANG group, are expected to outperform next year, the global head of multi-asset at PineBridge Investments said.",
+      "url": "https://www.reuters.com/business/developed-market-equities-us-tech-japan-gain-2022-fund-manager-says-2021-10-19/",
+      "urlToImage": "https://www.reuters.com/resizer/W_8mY6WTKKuMyyYthvq6WFuK9lY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ALKPSTUTXZLNFJ44TLO2OJJ3NQ.jpg",
+      "publishedAt": "2021-10-19T09:02:00Z",
+      "content": "A man walks past the New York Stock Exchange on the corner of Wall and Broad streets in New York City, New York, U.S., March 13, 2020. REUTERS/Lucas JacksonMUMBAI, Oct 19 (Reuters) - Developed market… [+2179 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Futures rise as upbeat earnings boost risk appetite - Reuters",
+      "description": "U.S. stock index futures rose on Tuesday as an upbeat profit forecast from Johnson & Johnson added to the positive momentum in corporate earnings generated by big banks last week.",
+      "url": "https://www.reuters.com/world/us/futures-rise-upbeat-earnings-boost-risk-appetite-2021-10-19/",
+      "urlToImage": "https://www.reuters.com/resizer/vDZ4-TCuGyGOt1zJ4fcA2hWV01M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/33XV5AVMIRNC7IQPQPEY7GZMJA.jpg",
+      "publishedAt": "2021-10-19T11:14:00Z",
+      "content": "Traders work on the floor of the New York Stock Exchange (NYSE) in New York City, U.S., October 18, 2021. REUTERS/Brendan McDermidOct 19 (Reuters) - U.S. stock index futures rose on Tuesday as an upb… [+1968 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Asian shares track Wall Street higher, China rebounds - Reuters India",
+      "description": "Asian shares advanced on Tuesday, supported by a tech-driven Wall Street rally, and a rebound in Chinese markets a day after weak data heightened investor concerns about the world's second-largest economy.",
+      "url": "https://www.reuters.com/business/global-markets-wrapup-1-2021-10-19/",
+      "urlToImage": "https://www.reuters.com/resizer/x4mR__Y73SBLtyKl9H7Cy6VldZU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V52IBJMFUFKX5JCW4IDDVBBRUI.jpg",
+      "publishedAt": "2021-10-19T02:18:38Z",
+      "content": "A man looks at stock market monitors in Taipei January 22, 2008. REUTERS/Nicky LohHONG KONG, Oct 19 (Reuters) - Asian shares advanced on Tuesday, supported by a tech-driven Wall Street rally, and a r… [+2833 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Tech stocks help Asian markets shake off China blues - Reuters",
+      "description": "Asian shares bounced on Tuesday, led by technology names across the region and as Chinese markets clawed back ground lost after disappointing economic data, while the improved investor confidence weighed on the safe-haven dollar.",
+      "url": "https://www.reuters.com/business/global-markets-wrapup-2-2021-10-19/",
+      "urlToImage": "https://www.reuters.com/resizer/x4mR__Y73SBLtyKl9H7Cy6VldZU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V52IBJMFUFKX5JCW4IDDVBBRUI.jpg",
+      "publishedAt": "2021-10-19T06:36:00Z",
+      "content": "A man looks at stock market monitors in Taipei January 22, 2008. REUTERS/Nicky LohHONG KONG, Oct 19 (Reuters) - Asian shares bounced on Tuesday, led by technology names across the region and as Chine… [+2732 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Jerry Hildenbrand",
+      "title": "Apple is bringing it's famous lock-in strategy to the MacBook",
+      "description": "The thing Apple didn't say out loud, but it did say it a lot.\n\nThe new MacBook Pro isn't an Android device, so it isn't particularly interesting for a website like Android Central to cover. However, it is a good upgrade for the right person, thanks to the rem…",
+      "url": "https://www.androidcentral.com/apple-m1-chip-helping-apple-expand-its-brand-lock",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/macbook-air-m1-6.jpg",
+      "publishedAt": "2021-10-19T14:00:03Z",
+      "content": "Source: Daniel Bader / Android Central\r\nThe new MacBook Pro isn't an Android device, so it isn't particularly interesting for a website like Android Central to cover. However, it is a good upgrade fo… [+4748 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Babu Mohan",
+      "title": "Amazon Music Unlimited brings one of Apple Music's best features to Android",
+      "description": "Amazon is also making lossless streaming available to all Music Unlimited subscribers.\n\n\n\nWhat you need to know\n\n\nAmazon Music Unlimited subscribers can now stream music in spatial audio.\nIn addition to Dolby Atmos, Amazon's Music Unlimited service also suppo…",
+      "url": "https://www.androidcentral.com/amazon-music-unlimited-getting-one-apple-musics-best-features",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/12/amazon-music-lifestyle.jpg",
+      "publishedAt": "2021-10-19T15:23:30Z",
+      "content": "Amazon is finally making spatial audio more accessible to its users. The company has announced that all Amazon Music Unlimited subscribers can now listen to tracks mixed in spatial audio on a wide ra… [+1592 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Babu Mohan",
+      "title": "Pixel Pass bundles a Pixel 6 with Google’s best services for $45 a month",
+      "description": "The new subscription service will be available in the U.S.\n\n\n\nWhat you need to know\n\n\nGoogle has announced a new \"Pixel Pass\" subscription service alongside the Pixel 6 series.\nPixel Pass offers \"Pixel and Google services\" together in one easy subscription. \n…",
+      "url": "https://www.androidcentral.com/pixel-pass-bundles-pixel-6-with-googles-best-services",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/10/google-pixel-6-coral-back-01.jpg",
+      "publishedAt": "2021-10-19T17:10:46Z",
+      "content": "At its fall launch event today, Google announced a new service called Pixel Pass alongside the Pixel 6 series phones. Just as expected, Pixel Pass is basically Google's answer to Apple One.\r\nPixel Pa… [+1247 chars]"
+    }
+  ]
+}
