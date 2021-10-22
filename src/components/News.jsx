@@ -35,7 +35,7 @@ class News extends Component {
   }
 
   async updateNews() {
-    var url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=c2a3c39198f64a9fb2a38db412f35f7b&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+    var url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page}&pageSize=${this.props.pageSize}`;
     this.setState({ loading: true });
     let data = await fetch(url);
     let parseData = await data.json();
@@ -84,7 +84,9 @@ class News extends Component {
                   <div className="col-md-4" key={elements.url}>
                     <NewsItems
                       title={elements ? elements.title.slice(0, 100) : ""}
-                      description={elements.description}
+                      description={
+                        elements.description ? elements.description : ""
+                      }
                       newsUrl={elements.url}
                       imageUrl={
                         elements.urlToImage
