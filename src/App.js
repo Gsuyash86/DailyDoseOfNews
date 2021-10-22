@@ -6,7 +6,7 @@ import News from "./components/News";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 export default function App() {
-  let apiKey = "c2a3c39198f64a9fb2a38db412f35f7b";
+  let apiKey = "dddee4049a3e49399ab2bc5b1b5eb7d1";
 
   return (
     <>
